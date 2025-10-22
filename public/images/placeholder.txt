@@ -1,0 +1,13 @@
+# Placeholder for Images Directory
+
+This directory is reserved for storing image assets for the landing page.
+
+Recommended images to add:
+- hero-background.jpg/png - Hero section background image
+- feature-icon-1.svg - Feature highlight icon 1
+- feature-icon-2.svg - Feature highlight icon 2
+- feature-icon-3.svg - Feature highlight icon 3
+- app-preview.png - Application preview screenshot
+- logo.svg - MacSSH Manager logo
+
+Images should be optimized for web use with appropriate dimensions and compression.
