@@ -1,0 +1,50 @@
+/* SolutionSection.css - Solution section styles */
+
+.solution-section {
+  padding: 4rem 2rem;
+  background-color: #f8f9fa;
+}
+
+.solution-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.solution-section h2 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.solution-section p {
+  font-size: 1.2rem;
+  color: #666;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.solution-features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.solution-features .feature {
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.solution-features .feature h3 {
+  font-size: 1.5rem;
+  color: #667eea;
+  margin-bottom: 1rem;
+}
+
+.solution-features .feature p {
+  text-align: left;
+  font-size: 1rem;
+}
